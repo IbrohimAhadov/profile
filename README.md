@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ibrohim ahadov</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="100" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrohimahadov&label=Profile%20views&color=0e75b6&style=flat" alt="ibrohimahadov" /> </p>
 
