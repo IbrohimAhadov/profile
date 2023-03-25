@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ibrohim ahadov</h1>
+<h1 align="center">Hi 👋, I'm Ibrohim Ahadov</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img align="center" vertical-align="top" alt="Coding" width="500px" height="400px" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
